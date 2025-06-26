@@ -27,7 +27,7 @@ A simple and functional web application to manage your daily tasks efficiently. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/Avinash0213/Todos-with-LocalStorage.git
     ```
 
 2. Navigate to the project directory:
